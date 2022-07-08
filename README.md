@@ -2,9 +2,7 @@
 
 Mi nombre es Eunice Estephany Zuñiga Hual
 
-Soy Estudiante de la Universidad Nacional de San Agustin
-
-Estudio en la Carrera de Ingenieria de Telecomunicaciones
+Soy Estudiante de la Universidad Nacional de San Agustin en la Carrera de Ingenieria de Telecomunicaciones
 
 Este Portafolio presenta un documentos del trabajo de mi persona para demostrar mi progreso en el curso de Computacion2
 
